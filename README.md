@@ -2,7 +2,7 @@
 
 A color scheme inspired by the GiveUpArt's artwork for the [Apple Pips][1] record label.
 
-![Screenshot][2]
+[Screenshot][2]
 
 ## Installation
 
